@@ -40,21 +40,8 @@ To translate this theoretical research into practical classroom utility, I engin
 * SQLite (Local Database)
 
 ---
-📦 StudentAIPersonaWebApplication
- ┣ 📂 BackendApi
- ┃ ┣ 📂 Controllers   # API Endpoints (QuizController.cs)
- ┃ ┣ 📂 Data          # SQLite DbContext
- ┃ ┣ 📂 Interfaces    # Dependency Injection Contracts
- ┃ ┣ 📂 Models        # Data Entities & DTOs
- ┃ ┗ 📂 Services      # K-Means Business Logic
- ┣ 📂 FrontendUI
- ┃ ┣ 📂 src
- ┃ ┃ ┣ 📂 components  # TeacherDashboard.jsx
- ┃ ┃ ┣ 📜 App.jsx     # Student Kiosk UI & Form Logic
- ┃ ┃ ┗ 📜 main.jsx    # React Router Setup
- ┃ ┣ 📜 tailwind.config.js
- ┃ ┗ 📜 package.json
- ┗ 📜 README.md
+
+<img width="670" height="526" alt="image" src="https://github.com/user-attachments/assets/7bcb5096-5e4b-4240-aa17-26fcd9cca9e6" />
 
  ___
 
