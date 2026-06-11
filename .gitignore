@@ -1,0 +1,14 @@
+# Node (React/Vite)
+node_modules/
+dist/
+
+# .NET / C#
+bin/
+obj/
+appsettings.Development.json
+*.db
+*.db-shm
+*.db-wal
+
+# Mac/OS
+.DS_Store
